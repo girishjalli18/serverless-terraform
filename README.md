@@ -13,4 +13,4 @@ Steps.
 - Create mapping between lambda function and simple queue.
 
 Architecture diagram
-![serverless components](https://github.com/girishjalli18/serverless-terraform/blob/main/sqs-lambda-serverless-1.png "sqs with lambda")
+![serverless components](https://github.com/girishjalli18/serverless-terraform/blob/main/sqs-lambda-serverless-1.png)
