@@ -13,4 +13,4 @@ Steps.
 - Create mapping between lambda function and simple queue.
 
 Architecture diagram
-```mermaid
+!(sqs-lambda-serverless-1.png)
